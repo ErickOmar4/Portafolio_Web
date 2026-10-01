@@ -20,6 +20,25 @@ El objetivo fue personalizar completamente la plantilla para crear un sitio web 
 
 esta platillacuneta con el area de informacion perosna/ acerca de mí, en donde ingrese mis datos basicos , nombre y perfil asi como como las skill o tecnologias que he utilizado 
 
+## estructura 
+
+estrucura de los archivos del portafolio -> 
+![alt text](assets/img/readme/estructura.png)
+
+assets
+img ----(readme- imagenes del readme , portfolio(imagenes de la seccion de portafolio/ proyectos))
+
+js --- funciones del proyecto
+
+contact.php
+Readme.txt
+index.html <---- vista principal/ inicial del portafolio
+portfolio-details.html
+Readme.md  <------- información que se muestra en el repositorio de github
+
+service-details.html
+starter-page.html
+
 
 # secciones 
 
